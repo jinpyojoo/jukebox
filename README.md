@@ -7,7 +7,7 @@
 
 ### 아이디어 구상
 #### 준비물
-- Raspberry pi 4b (ram 4gb) [변경가능]
+- Raspberry pi 4b (ram 4gb) / Radxa zero (ram 4gb)
 - SD Card (32gb)
 - microHDMI to HDMI cable (내장방식)
 - case (3d프린터 인쇄)
